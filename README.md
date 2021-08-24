@@ -23,4 +23,4 @@ Collection of dynamic programming problems from https://youtu.be/oBt53YbR9Kk tra
     15_countConstruct_tabulation
     16_allConstruct_tabulation
 
-![main.py script running](https://i.ibb.co/yYcd2D7/yo-NOXjm-NDE.gif)
+![main.py script running](https://github.com/v4n5h4j/v4n5h4j/blob/main/Images/yoNOXjmNDE.gif)
