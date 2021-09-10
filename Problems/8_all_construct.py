@@ -17,7 +17,7 @@ def allConstruct(target, word_bank, memo=None):
 	for word in word_bank:
 		if target.startswith(word):
 			suffix = target[len(word):]
-			suffix_ways = allConstruct(suffix, word_bank)
+			suffix_ways = allConstruct(suffix, word_bank, memo)
 			target_ways = list(map(lambda way: [word, *way], suffix_ways))
 			result.extend(target_ways)
 
